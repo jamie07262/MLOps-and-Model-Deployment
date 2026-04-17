@@ -1,0 +1,10 @@
+data/
+.idea/
+.vscode/
+.venv/
+*.png
+.gitattributes
+models/
+mlruns/ 
+__pycache__/
+mlflow.db
