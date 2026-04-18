@@ -1,4 +1,4 @@
-[NYC Yellow Taxi Tip Prediction API (MLOps & Model Deployment)]
+# **NYC Yellow Taxi Tip Prediction API (MLOps & Model Deployment)**
 
 ## Overview
 
