@@ -166,7 +166,6 @@ Invoke-RestMethod -Uri "http://localhost:8000/predict" `
 You may need to set the following environment variables for local development or deployment:
 
 ```sh
-RUN_ID="your-id"
 MLFLOW_TRACKING_URI="http://localhost:5000"
 MODEL_PATH="models/linear_regression_artifact.pkl"
 ```
