@@ -8,3 +8,6 @@ models/
 mlruns/ 
 __pycache__/
 mlflow.db
+mlartifacts/
+.pytest_cache/
+.env
